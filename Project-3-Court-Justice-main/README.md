@@ -16,4 +16,4 @@ Here's the Live Deployed Website ![Project 3](https://img.shields.io/badge/Proje
 - I also learned how to design Buttons and Navbar.
 - I also learned how to use margin and padding.
 
-## This project took around 1.5 hours to complete.
+
